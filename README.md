@@ -1,5 +1,6 @@
-# R-Ladies DC Meetup Presentations
 ![R-Ladies Logo](/imgs/R-LadiesGlobal_banner.png)
+
+# R-Ladies DC Meetup Presentations
 
 Meetup Presentations from the Washington DC Chapter
 
