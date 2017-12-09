@@ -6,6 +6,9 @@ Check out our [Meetup Page](https://www.meetup.com/rladies-dc/)
 
 Meetup Presentations from the Washington DC Chapter
 
+- Rise and Shiny!
+  - [Presentations](https://github.com/rladies/meetup-presentations_dc/tree/master/RiseAndShiny)
+
 - Open Data Day Mini-Hackathon (March 2017)
   - [Presentation](https://github.com/rladies/meetup-presentations_dc/blob/master/RLadiesDCOpenDataDay2017.pdf)
   - [Rvest Example Code Notebook](https://github.com/rladies/meetup-presentations_dc/blob/master/rvest_basics.Rmd)
