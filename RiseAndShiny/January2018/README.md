@@ -1,7 +1,7 @@
 # Rise and Shiny: Google Sheets Integration
 
 ### Materials
-**Link to the [workshop presentation]**(https://docs.google.com/presentation/d/1CVsZhCkWTmhp_xp3TOisqqiGYPblaTAYRq9DudkBGME/edit?usp=sharing)
+Link to the [workshop presentation](https://docs.google.com/presentation/d/1CVsZhCkWTmhp_xp3TOisqqiGYPblaTAYRq9DudkBGME/edit?usp=sharing)
 
 - Nice [introduction blog](https://datascienceplus.com/how-to-use-googlesheets-to-connect-r-to-google-sheets/?utm_content=buffer3c4aa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) to all the `gs_` functions and workflow
 
