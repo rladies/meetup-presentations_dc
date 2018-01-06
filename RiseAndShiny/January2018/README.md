@@ -1,7 +1,9 @@
 # Rise and Shiny: Google Sheets Integration
 
 ### Materials
-Link to the [workshop presentation](https://docs.google.com/presentation/d/1CVsZhCkWTmhp_xp3TOisqqiGYPblaTAYRq9DudkBGME/edit?usp=sharing)
+**Link to the [workshop presentation]**(https://docs.google.com/presentation/d/1CVsZhCkWTmhp_xp3TOisqqiGYPblaTAYRq9DudkBGME/edit?usp=sharing)
+
+- Nice [introduction blog](https://datascienceplus.com/how-to-use-googlesheets-to-connect-r-to-google-sheets/?utm_content=buffer3c4aa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) to all the `gs_` functions and workflow
 
 ### Workshop Code Challenge
 
@@ -22,3 +24,7 @@ The challenge for this workshop will be to build a shiny app that can access, re
 - [Managing OAuth Tokens Vignette](https://rawgit.com/jennybc/googlesheets/master/vignettes/managing-auth-tokens.html)
 
 - Sample Shiny Application: [Read a Public Sheet](https://jennybc.shinyapps.io/01_read-public-sheet/)
+
+### R-Ladies Global CoC
+
+Please take the time to read our [Code of Conduct!](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct)
