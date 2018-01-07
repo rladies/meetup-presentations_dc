@@ -14,7 +14,7 @@ Meetup Presentations from the Washington DC Chapter
   - [Rvest Example Code Notebook](https://github.com/rladies/meetup-presentations_dc/blob/master/rvest_basics.Rmd)
 
 - Personal Website Workshop with Blogdown and Netlify (June 2017)
-  - [Presentation](https://github.com/rladies/meetup-presentations_dc/blob/master/BlogdownNetlifyWorkshop-2017/RLadiesDC-PersonalWebsiteWkshp.pdf)
+  - [Presentation](https://github.com/rladies/meetup-presentations_dc/blob/master/BlogdownNetlifyWorkshop-2017/RLadiesDC-PersonalWebsiteWkshp-June2017.pdf)
   
 - Networking Event Party Game (September 2017)
   - [Rstats Crossword Puzzle](https://github.com/rladies/meetup-presentations_dc/blob/master/NetworkingCrosswordPuzzle-2017/R-Ladies%20Crossword%20Puzzle%20Challenge.pdf)
