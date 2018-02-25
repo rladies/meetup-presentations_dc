@@ -1,6 +1,6 @@
 ![R-Ladies Logo](/imgs/R-LadiesGlobal_banner.png)
 
-Check out our [Meetup Page](https://www.meetup.com/rladies-dc/)
+Check out our [Meetup Page](https://www.meetup.com/rladies-dc/)|
 Follow us on [Twitter](https://twitter.com/RLadiesDC)
 
 # R-Ladies DC Meetup Presentations
