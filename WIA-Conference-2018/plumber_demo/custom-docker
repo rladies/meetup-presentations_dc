@@ -1,0 +1,6 @@
+FROM trestletech/plumber
+MAINTAINER username <email>
+
+RUN R -e "install.packages('ggplot2')"
+
+CMD ["plumber.R"]
