@@ -8,5 +8,6 @@ This Workshop is Hands-on! Bring a Laptop if you can!
 - 8:00 Social/Networking
 
 Workshop Goals: Learn about types of collaboration and opportunities for contributing to R projects. 
-Discuss basics of Git and GitHub. Practice forking a GitHub repository, utilizing issues and branches, and submitting a pull request. 
-Learn about the reprex package in R for creating reproducible examples. 
+Discuss basics of Git and GitHub. Practice cloning a GitHub repository, utilizing issues and branches, and submitting a pull request.
+
+Workshop Outline and Repository: [kellobri/rladies-dc-github-wkshp](https://github.com/kellobri/rladies-dc-github-wkshp)  
